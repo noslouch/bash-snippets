@@ -1,4 +1,4 @@
-#! bin/bash
+#!bin/bash
 
 # tests whether the script has been invoked with the correct number of paramemeters
 
